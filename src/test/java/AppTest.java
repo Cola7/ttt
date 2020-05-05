@@ -16,5 +16,7 @@ public class AppTest {
 
         controllertest.getServicetest().ss();
 
+        System.out.println("dfdfdf");
+
     }
 }
