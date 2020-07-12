@@ -17,7 +17,7 @@ class MyRunnable implements Runnable {
     嵌套1 objA
     嵌套1 objB
     嵌套2 objB
-    嵌套1 objA
+    嵌套1 objA   fhfhdfjdhf
      */
     @Override
     public void run() {
